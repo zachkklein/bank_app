@@ -28,29 +28,28 @@ const Sidebar = ({user}: SiderbarProps) => {
             const isActive = pathName === item.route || pathName.startsWith(`${item.route}/`)
 
             return (
-                <Link 
-                href={item.route} 
-                key={item.label}
-                className={cn('sidebar-link', { 'bg-gradient-to-r from-[#0179FE] to-[#4893FF]': isActive })}
-                >
+                <Link href={item.route} key={item.label}
+                className={cn('sidebar-link', { 'bg-bank-gradient': isActive })}
+              >
                 <div className="relative size-6">
-                    <Image 
+                  <Image 
                     src={item.imgURL}
                     alt={item.label}
                     fill
                     className={cn({
-                        'brightness-[3] invert-0': isActive
+                      'brightness-[3] invert-0': isActive
                     })}
-                    />
+                  />
                 </div>
                 <p className={cn("sidebar-label", { "!text-white": isActive })}>
                   {item.label}
                 </p>
-                </Link>
+              </Link>
                 );
             })}
-
+            USER
         </nav>
+        FOOTER
     </section>
   )
 }
