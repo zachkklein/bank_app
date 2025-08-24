@@ -248,7 +248,7 @@ horizon-banking/
 
 ##  Acknowledgments
 
-- **JSMastery Tutorial Video** for providing in depth tutorial about how to build this application. Using this tutorial, I was able to learn the technologies thoroughly and fully understand every aspect that went into this application. This could not have been a more helpful and informative tutorial. 
+- **❗❗❗JSMastery Tutorial Video** for providing in depth tutorial about how to build this application. Using this tutorial, I was able to learn the technologies thoroughly and fully understand every aspect that went into this application. This could not have been a more helpful and informative tutorial. ❗❗❗
 - **Plaid** for providing secure banking APIs
 - **Dwolla** for payment processing infrastructure
 - **Appwrite** for backend-as-a-service platform
