@@ -9,6 +9,14 @@
   ![Plaid](https://img.shields.io/badge/Plaid-000000?logo=plaid)
   ![Dwolla](https://img.shields.io/badge/Dwolla-FF6B00?logo=dwolla)
 
+  <img width="2998" height="1464" alt="auth-image" src="https://github.com/user-attachments/assets/39957517-9b30-4389-a3c4-e3f59a4831ce" />
+  <img width="2998" height="1464" alt="my_banks" src="https://github.com/user-attachments/assets/f18282f4-834f-47e6-9151-e56ed22692a0" />
+  <img width="2998" height="1464" alt="transactionHistory" src="https://github.com/user-attachments/assets/f4962968-2de9-4147-af63-18904325f46a" />
+  <img width="2998" height="1464" alt="payment_transfer" src="https://github.com/user-attachments/assets/ed5c96a3-25c3-4a4b-b7c8-64af0a7365c6" />
+  <img width="2998" height="1464" alt="connectBank" src="https://github.com/user-attachments/assets/3bf07774-2ed8-4bc5-acd8-86d649eca10b" />
+  <img width="2998" height="1464" alt="signIn" src="https://github.com/user-attachments/assets/20478da5-45a7-48b2-ae1a-4129a7e60c7d" />
+  <img width="2998" height="1464" alt="signUp" src="https://github.com/user-attachments/assets/1b590141-6640-4a14-8ef2-559138b21093" />
+
 
 ##  Features
 
